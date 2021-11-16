@@ -5,6 +5,10 @@
 - Heaven Kadro (@Hkadro)
 - Komal Kaur (@Komal914)
 
+## Deployment site: 
+- https://komal914.github.io/react-gh-pages/ 
+- this site is working but components are not showing up
+
 ## Goal 
 Create a basic banking app 
 
